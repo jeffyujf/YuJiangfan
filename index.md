@@ -35,16 +35,9 @@
 
 # Journal Publications
 
-* <strong><u>J. F. Yu</u></strong>, B. Wang, X. Z. Du, Q. Q. Wang and L. Zhang, Ultra-extensible Ribbon-like Magnetic Microswarm, <i>Nature Communications</i>, Vol. 9, 3260, 2018. 
-  
-- <i>Highlighted in Nature News as: ”Making a microscopic swarm move through a maze”.</i>
+1. <strong><u>J. F. Yu</u></strong>, B. Wang, X. Z. Du, Q. Q. Wang and L. Zhang, Ultra-extensible Ribbon-like Magnetic Microswarm, <i>Nature Communications</i>, Vol. 9, 3260, 2018. 
 
-- <i>Highlighted in Nature Video as: ”Making a microscopic swarm move through a maze”.</i>
-
-- <i>Highlighted in CNN as: ”Hong Kong scientists develop new ’nano-swarm’ robots”.</i>
-
-
-*. <strong><u>J. F. Yu</u></strong>, L. D. Yang and L. Zhang, Pattern Generation and Motion Control of a Vortex-like Paramagnetic Nanoparticle Swarm, <i>International Journal of Robotics Research</i>, Vol. 37, Issue 8, 912-930, 2018.
+2. <strong><u>J. F. Yu</u></strong>, L. D. Yang and L. Zhang, Pattern Generation and Motion Control of a Vortex-like Paramagnetic Nanoparticle Swarm, <i>International Journal of Robotics Research</i>, Vol. 37, Issue 8, 912-930, 2018.
 
 3. <strong><u>J. F. Yu</u></strong> and L. Zhang, Reversible Pattern Transformation of Paramagnetic Nanoparticle Swarms in Bio-fluids with High Ionic Strength, <i>IEEE/ASME Transactions on Mechatronics<i>, Vol. 24, Issue 1, 154-163, 2019.
   
@@ -94,6 +87,19 @@ Conference on Robotics and Automation (ICRA 2017)</strong>, Singapore, May 2017.
 5. "Magnetic Control of AMB-1 Magnetotactic Bacteria for Micromanipulation", <strong>IEEE International Conference on Automation Science and Engineering (CASE 2015)</strong>, Gothenburg, Sweden, August 2015.
 
 6. "Self-propelled Magnesium Based Micromotors: Synthesis and Magnetic Steering",<strong> International Symposium of Optomechatronics Technology (ISOT 2015)</strong>, Neuchatel, Switzerland, October 2015.
+
+
+# Press
+
+* <strong>Nature News</strong>: ”Making a microscopic swarm move through a maze”.
+
+* <strong> Nature Video</strong>: ”Making a microscopic swarm move through a maze”.
+
+* <strong>CNN</strong>: ”Hong Kong scientists develop new ’nano-swarm’ robots”.
+
+* <strong>International Business Times</strong>: ”Shape-changing swarming nanorobots developed to aid complexmedical surgeries”.
+
+*  <strong>CUHK Press </strong>:"CUHK Robotic Engineers: First to Implement Swarm Behaviours on Nano-Robots".
 
 # Internship experiences
 
