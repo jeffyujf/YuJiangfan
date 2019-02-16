@@ -17,30 +17,21 @@
       <header>
         <h1><a href="{{ "/" | absolute_url }}">{{ site.title | default: site.github.repository_name }}</a></h1>       
      <p>{{ site.description | default: site.github.project_tagline }}</p>
-
+ {% if site.github.is_project_page %}
         <p class="one">Postdoctoral Fellow </p>
         <p class="one">Department of Mechanical and Automation Engineering</p>
         <p class="one">Chinese University of Hong Kong</p>
-
+    {% endif %}
 <html>
 <head> <title>class选择器</title>
 <style type="text/css">
 .one{
     color:red;          /* 红色 */
     font-size:18px;  }         /* 文字大小 */
-.two{
-    color:green;        /* 绿色 */
-    font-size:20px; }   /* 文字大小 */
-.three{
-    color:cyan;           /* 青色 */
-    font-size:22px; }   /* 文字大小 */
 </style>
 </head>
 <body>
     <p class="one">class选择器1</p>
-    <p class="two">class选择器2</p>
-    <p class="three">class选择器3</p>
-    <h3 class="two">h3同样适用</h3>
 </body>
 </html>
         
