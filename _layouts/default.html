@@ -17,16 +17,20 @@
       <header>
         <h1><a href="{{ "/" | absolute_url }}">{{ site.title | default: site.github.repository_name }}</a></h1>       
      <p>{{ site.description | default: site.github.project_tagline }}</p>
+              {% if site.logo %}
+          <img src="{{site.logo | relative_url}}" alt="Logo" />
+        {% endif %}
  {% if site.github.is_project_page %}
         <p class="one">Postdoctoral Fellow </p>
         <p class="one">Department of Mechanical and Automation Engineering</p>
         <p class="one">Chinese University of Hong Kong</p>
     {% endif %}
+        
 <html>
 <head> <title>class选择器</title>
 <style type="text/css">
 .one{
-    color:red;          /* 红色 */
+    color:Black;          /* 红色 */
     font-size:18px;  }         /* 文字大小 */
 </style>
 </head>
