@@ -4,3 +4,8 @@ description:
 show_downloads: false
 google_analytics:
 description: [Welcome to Jiangfan Yu's homepage!！]
+JB :
+  analytics :
+    provider : google 
+    google : 
+    tracking_id : 'UA-134622007-1'
