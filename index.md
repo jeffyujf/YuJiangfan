@@ -78,48 +78,26 @@
 7. Q.Q. Wang, L.D. Yang, <strong><u>J.F. Yu</u></strong>, C.I. Vong, Philip W.Y. Chiu, L. Zhang, Magnetic Navigation of A Rotating Colloidal Swarm Using Ultrasound Images, Proc. of IEEE International Conference on Intelligent Robots and Systems (IROS 2018), Madrid, Spain, Oct 1-5, 5380 - 5385, 2018.
 
 
-### And a nested list:
+# Academic Presentations
 
-- level 1 item
-  - level 2 item
-  - level 2 item
-    - level 3 item
-    - level 3 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-- level 1 item
+1. "On-demand Disassembly of Magnetic Nanoparticle Chains for Microrobotic Cargo Delivery", <strong>IEEE International Conference on Robotics and Automation (ICRA 2018)</strong>, Brisbane, Australia, May 2018.
 
-### Small image
+2. "Mobile Magnetic Nanoparticle-based Vortex for Targeted Cargo Delivery in Fluid“, <strong>IEEE International
+Conference on Robotics and Automation (ICRA 2017)</strong>, Singapore, May 2017.
 
-![Octocat](https://assets-cdn.github.com/images/icons/emoji/octocat.png)
+3. "Nanorobotic Swarm for Active Targeted Therapy", <strong>Emedic Global</strong>, Hong Kong, August 2016.
 
-### Large image
+4. "Mobile Microvortex Tweezers: Noninvasive, Low-cost Tools for Cell Manipulation and Nanomedicine",
+<strong>Faculty of Engineering 25th Anniversary</strong>, CUHK, Hong Kong, October 2016.
 
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
+5. "Magnetic Control of AMB-1 Magnetotactic Bacteria for Micromanipulation", <strong>IEEE International Conference on Automation Science and Engineering (CASE 2015)</strong>, Gothenburg, Sweden, August 2015.
+
+6. "Self-propelled Magnesium Based Micromotors: Synthesis and Magnetic Steering",<strong> International Symposium of Optomechatronics Technology (ISOT 2015)</strong>, Neuchatel, Switzerland, October 2015.
+
+# Internship experiences
 
 
-### Definition lists can be used with HTML syntax.
 
-<dl>
-<dt>Name</dt>
-<dd>Godzilla</dd>
-<dt>Born</dt>
-<dd>1952</dd>
-<dt>Birthplace</dt>
-<dd>Japan</dd>
-<dt>Color</dt>
-<dd>Green</dd>
-</dl>
 
-```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-```
 
-```
-The final element.
-```
+
