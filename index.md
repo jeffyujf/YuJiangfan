@@ -2,7 +2,7 @@
 
 # Short Bio
 
-Jiangfan Yu blabla
+Jiangfan Yu got his B.Eng from Harbin Institute of Technology.
 
 ## Header 2
 
