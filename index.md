@@ -35,16 +35,16 @@
 
 # Journal Publications
 
-1. <strong><u>J. F. Yu</u></strong>, B. Wang, X. Z. Du, Q. Q. Wang and L. Zhang, Ultra-extensible Ribbon-like Magnetic Microswarm, <i>Nature Communications</i>, Vol. 9, 3260, 2018. 
+* <strong><u>J. F. Yu</u></strong>, B. Wang, X. Z. Du, Q. Q. Wang and L. Zhang, Ultra-extensible Ribbon-like Magnetic Microswarm, <i>Nature Communications</i>, Vol. 9, 3260, 2018. 
   
-* <i>Highlighted in Nature News as: ”Making a microscopic swarm move through a maze”.</i>
+- <i>Highlighted in Nature News as: ”Making a microscopic swarm move through a maze”.</i>
 
-* <i>Highlighted in Nature Video as: ”Making a microscopic swarm move through a maze”.</i>
+- <i>Highlighted in Nature Video as: ”Making a microscopic swarm move through a maze”.</i>
 
-* <i>Highlighted in CNN as: ”Hong Kong scientists develop new ’nano-swarm’ robots”.</i>
+- <i>Highlighted in CNN as: ”Hong Kong scientists develop new ’nano-swarm’ robots”.</i>
 
 
-2. <strong><u>J. F. Yu</u></strong>, L. D. Yang and L. Zhang, Pattern Generation and Motion Control of a Vortex-like Paramagnetic Nanoparticle Swarm, <i>International Journal of Robotics Research</i>, Vol. 37, Issue 8, 912-930, 2018.
+*. <strong><u>J. F. Yu</u></strong>, L. D. Yang and L. Zhang, Pattern Generation and Motion Control of a Vortex-like Paramagnetic Nanoparticle Swarm, <i>International Journal of Robotics Research</i>, Vol. 37, Issue 8, 912-930, 2018.
 
 3. <strong><u>J. F. Yu</u></strong> and L. Zhang, Reversible Pattern Transformation of Paramagnetic Nanoparticle Swarms in Bio-fluids with High Ionic Strength, <i>IEEE/ASME Transactions on Mechatronics<i>, Vol. 24, Issue 1, 154-163, 2019.
   
