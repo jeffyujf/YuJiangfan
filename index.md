@@ -2,7 +2,9 @@
 
 # Brief Bio
 
-I am currently a postdoctoral fellow in the Department of Mechanical and Automation Engineering, the Chinese University of Hong Kong, working on the swarm actuatio and control of micro-robotics for biomedical applications. Before that, I received my Ph.D. degree in the same department in 2018, and received my B.Eng degree in Department of Automation from Harbin Institute of Technology, in 2014. 
+I am currently a postdoctoral fellow in the Department of Mechanical and Automation Engineering, the Chinese University of Hong Kong. Before that, I received my Ph.D. degree in the same department in 2018, and received my B.Eng degree in Department of Automation from Harbin Institute of Technology, in 2014. 
+
+My research interest locates in small-scale robotics, especially microrobotic swarms for biomedical applications. During my Ph.D.'s research, I accumulated experiences on the understanding of microrobotic swarms from fundamentals, including the generation, actuation, motion control and imaging, to potential applications such as targeted drug delivery, hyperthermia and sensing. I also have expertise on the actuation and navigation of helical microrobots and magnetotactic bacteria for microrobotic missions.
 
 ## Header 2
 
