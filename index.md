@@ -1,16 +1,3 @@
-<Head>
-<!-- Global site tag (gtag.js) - Google Analytics -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=UA-134622007-1"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
-
-  gtag('config', 'UA-134622007-1');
-</script>
-</Head>
-
-
 # Home
 
 <p style="text-align:justify">I am currently a postdoctoral fellow in the Department of Mechanical and Automation Engineering, the Chinese University of Hong Kong. Before that, I received my Ph.D. degree in the same department in 2018, and received my B.Eng degree in Department of Automation from Harbin Institute of Technology, in 2014. </p>
@@ -120,5 +107,15 @@ Conference on Robotics and Automation (ICRA 2017)</strong>, Singapore, May 2017.
 
 3. <strong>Advanced Robotics Lab, the Chinese University of Hong Kong,</strong> (Jun.-Aug. 2012): Designed a joint servo system fit in a palm-sized robot.
 
+<Head>
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-134622007-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
 
+  gtag('config', 'UA-134622007-1');
+</script>
+</Head>
 
