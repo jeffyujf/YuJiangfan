@@ -96,8 +96,11 @@ Conference on Robotics and Automation (ICRA 2017)</strong>, Singapore, May 2017.
 
 # Internship experiences
 
+1. <strong>International Designing Institute, Zhejiang University,</strong> (Jun.-Aug. 2013): Designed the shape and the actuation system of a vehicle for disables, also involved in designing its interface and control system.
 
+2. <strong>National Engineering Lab of Digital Video Codec Technology, Peking University,</strong>(Jun.-Aug. 2012): Dealed with basic tasks on intelligent image process with OpenCV.
 
+3. <strong>Advanced Robotics Lab, the Chinese University of Hong Kong,</strong> (Jun.-Aug. 2012): Designed a joint servo system fit in a palm-sized robot.
 
 
 
