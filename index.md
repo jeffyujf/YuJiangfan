@@ -61,36 +61,22 @@
 
 10. Q. Q. Wang, L. D. Yang, B. Wang, E. Yu,  <strong><u>J. F. Yu</u></strong>, L. Zhang, Collective behavior of reconfigurable magnetic droplets via dynamic self-assembly, <i>ACS Applied Materials & Interfaces</i>, Vol. 11, No. 1, 1630–1637, 2019.
 
+# Conference Publications
 
+1. <strong><u>J. F. Yu</u></strong>, D. D. Jin, L. Zhang, Mobile Magnetic Nanoparticle-based Vortex for Targeted Cargo Delivery in Fluid, <i>IEEE International Conference on Robotics and Automation (ICRA 2017)<i>, Singapore, May 29 - June 3, 6594 - 6599, 2017.
 
+2. <strong><u>J. F. Yu</u></strong>, H. B. Yu, T. T. Xu and L. Zhang. Magnetic Control of AMB-1 Magnetotactic Bacteria for Micromanipulation, <i>IEEE International Conference on Automation Science and Engineering (CASE 2015)</i>, pages: 1614-1619. 
 
+3. <strong><u>J. F. Yu</u></strong>, L. Zhang, Paramagnetic Nanoparticle-based Vortex: Generation, Mobility and Microma- nipulation, <i>IEEE International Conference on Nanotechnology (IEEE NANO 2017)</i>, Pittsburg, U.S.A., July 25-28, 293 - 296, 2017.
 
-###### Header 6
+4. Q. W. Chao, <strong><u>J. F. Yu</u></strong>, T. T. Xu, L. Zhang, C. L. Wang, X. G. Jin, Steering Micro-Robotic Swarm by Dynamic Actuating Fields, <i>IEEE International Conference on Robotics and Automation (ICRA 2016)</i>, Stockholm, Sweden, 5230-5235, 2016.
 
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
+5. D.D. Jin, <strong><u>J. F. Yu</u></strong>, K. H. Chan, L. Zhang, Self-propelled magnesium based micromotors: synthesis and magnetic steering, <i>International Symposium of Optomechatronics Technology (ISOT 2015)</i>, Vol. 32, 04004, 2015. 
 
-### There's a horizontal rule below this.
+6. Q.Q. Wang, L.D. Yang, <strong><u>J.F. Yu</u></strong>, L. Zhang, Characterizing Dynamic Swimming Behaviors of Three-Particle Magnetic Microswimmer Near a Surface, IEEE International Conference on Robotics and Biomimetics 2017 (ROBIO 2017),Macao, China, Dec 5-8, 2017.
 
-* * *
+7. Q.Q. Wang, L.D. Yang, <strong><u>J.F. Yu</u></strong>, C.I. Vong, Philip W.Y. Chiu, L. Zhang, Magnetic Navigation of A Rotating Colloidal Swarm Using Ultrasound Images, Proc. of IEEE International Conference on Intelligent Robots and Systems (IROS 2018), Madrid, Spain, Oct 1-5, 5380 - 5385, 2018.
 
-### Here is an unordered list:
-
-*   Item foo
-*   Item bar
-*   Item baz
-*   Item zip
-
-### And an ordered list:
-
-1.  Item one
-1.  Item two
-1.  Item three
-1.  Item four
 
 ### And a nested list:
 
