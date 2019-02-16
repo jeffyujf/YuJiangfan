@@ -10,22 +10,37 @@ My research interest locates in small-scale robotics, especially microrobotic sw
 >This part is under regularly updating.
 
 [02/2019] One paper is formally published in <i>IEEE/ASME Transaction on Mechatronics</i>
+
 [11/2018] I formally begin my postdoctoral research period.
+
 [11/2018] I have been shortlisted for Hong Kong Young Scientist Award (total 3 researchers), but unfortunally missed the award. Keep going!
+
 [07/2018] I successfully passed my PhD thesis defenses.
+
 [07/2018] One paper has been accepted in <i>Nature Communications</i>. This work has been highlighted in <i>Nature News, Nature Video</i> and many media including <i>CNN</i>.
+
 [04/2018] My paper has been accepted in <i>the International Journal of Robotics Research</i>. Many thanks to the appreciation of reviewers and the support of the editor!
+
 [01/2018] My T-Ro paper has been selected to be presented in ICRA 2018.
+
 [04/2017] My paper has been accepted in <i>IEEE Transactions on Robotics</i>.
+
 [04/2017] One paper has been accepted in <i>IEEE NANO 2017</i>.
+
 [01/2017] One paper has been accepted in <i>ICRA 2017</i>.
+
 [before 2017...] One paper has been accepted in <i>CASE 2016</i>.
 
 
-#Publications
+# Publications
 
-<strong>aasasa</strong>
+1. <strong><u>J. F. Yu</u><\strong>, B. Wang, X. Z. Du, Q. Q. Wang and L. Zhang, Ultra-extensible Ribbon-like Magnetic Microswarm, <i>Nature Communications</i>, Vol. 9, 3260, 2018. 
+  
+* <i>Highlighted in Nature News as: ”Making a microscopic swarm move through a maze”.</i>
 
+* <i>Highlighted in Nature Video as: ”Making a microscopic swarm move through a maze”.</i>
+
+* <i>Highlighted in CNN as: ”Hong Kong scientists develop new ’nano-swarm’ robots”.</i>
 
 #### Header 4
 
