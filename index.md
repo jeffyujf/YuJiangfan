@@ -6,11 +6,20 @@ I am currently a postdoctoral fellow in the Department of Mechanical and Automat
 
 My research interest locates in small-scale robotics, especially microrobotic swarms for biomedical applications. During my Ph.D.'s research, I accumulated experiences on the understanding of microrobotic swarms from fundamentals, including the generation, actuation, motion control and imaging, to potential applications such as targeted drug delivery, hyperthermia and sensing. I also have expertise on the actuation and navigation of helical microrobots and magnetotactic bacteria for microrobotic missions.
 
-## Header 2
+# News
+>This part is under regularly updating.
 
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
+[02/2019] One paper is formally published in <i>IEEE/ASME Transaction on Mechatronics</i>
+[11/2018] I formally begin my postdoctoral research period.
+[11/2018] I have been shortlisted for Hong Kong Young Scientist Award (total 3 researchers), but unfortunally missed the award. Keep going!
+[07/2018] I successfully passed my PhD thesis defenses.
+[07/2018] One paper has been accepted in <i>Nature Communications</i>. This work has been highlighted in <i>Nature News, Nature Video</i> and many media including <i>CNN</i>.
+[04/2018] My paper has been accepted in <i>the International Journal of Robotics Research</i>. Many thanks to the appreciation of reviewers and the support of the editor!
+[01/2018] My T-Ro paper has been selected to be presented in ICRA 2018.
+[04/2017] My paper has been accepted in <i>IEEE Transactions on Robotics</i>.
+[04/2017] One paper has been accepted in <i>IEEE NANO 2017</i>.
+[01/2017] One paper has been accepted in ICRA 2017.
+[before 2017...] One paper has been accepted in CASE 2016.
 
 ### Header 3
 
