@@ -1,6 +1,6 @@
 
 
-# Postdoctoral fellow 
+# Brief Bio
 
 Jiangfan Yu got his B.Eng from Harbin Institute of Technology.
 
