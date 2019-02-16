@@ -32,9 +32,15 @@ My research interest locates in small-scale robotics, especially microrobotic sw
 [before 2017...] One paper has been accepted in <i>CASE 2016</i>.
 
 
+<head>
+<style> 
+.divcss5{text-decoration:underline}
+  </style>
+  </head>
+<div class="divcss5">asa</div>  
 # Publications
 
-1. <strong><u>J. F. Yu</u></strong>, B. Wang, X. Z. Du, Q. Q. Wang and L. Zhang, Ultra-extensible Ribbon-like Magnetic Microswarm, <i>Nature Communications</i>, Vol. 9, 3260, 2018. 
+1. <strong>J. F. Yu</strong>, B. Wang, X. Z. Du, Q. Q. Wang and L. Zhang, Ultra-extensible Ribbon-like Magnetic Microswarm, <i>Nature Communications</i>, Vol. 9, 3260, 2018. 
   
 * <i>Highlighted in Nature News as: ”Making a microscopic swarm move through a maze”.</i>
 
