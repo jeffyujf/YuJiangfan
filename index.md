@@ -18,25 +18,14 @@ My research interest locates in small-scale robotics, especially microrobotic sw
 [01/2018] My T-Ro paper has been selected to be presented in ICRA 2018.
 [04/2017] My paper has been accepted in <i>IEEE Transactions on Robotics</i>.
 [04/2017] One paper has been accepted in <i>IEEE NANO 2017</i>.
-[01/2017] One paper has been accepted in ICRA 2017.
-[before 2017...] One paper has been accepted in CASE 2016.
+[01/2017] One paper has been accepted in <i>ICRA 2017</i>.
+[before 2017...] One paper has been accepted in <i>CASE 2016</i>.
 
-### Header 3
 
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
+#Publications
 
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
+<strong>aasasa</strong>
+
 
 #### Header 4
 
