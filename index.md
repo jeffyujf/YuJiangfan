@@ -37,7 +37,7 @@
 
 # Journal Publications
 
-* D.D. Jin<sup>*</sup>, <strong><u>J.F. Yu</u><sup>*</sup></strong>, K. Yuan, L. Zhang, Mimicking the structure and function of ant bridge in reconfigurable microswarm for electronic applications, <i>ACS Nano</i>, accepted, 2019.
+* D.D. Jin<sup>*</sup>, <strong><u>J.F. Yu</u><sup>*</sup></strong>, K. Yuan, L. Zhang, Mimicking the structure and function of ant bridge in reconfigurable microswarm for electronic applications, <i>ACS Nano</i>, accepted, 2019. (<sup>*</sup> denotes co-first authorship.)
 
 * T. T. Xu, <strong><u>J. F. Yu</u></strong>, C. I. Vong, B. Wang, X. Y. Wu<sup>*</sup>, L. Zhang<sup>*</sup>, Dynamic morphology and swimming properties of rotating miniature swimmers with soft tails, <i>IEEE/ASME Transactions on Mechatronics</i>, accepted, 2019.
 
