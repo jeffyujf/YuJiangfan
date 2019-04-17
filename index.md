@@ -33,13 +33,13 @@
 
 # Journal Publications
 
-* D.D. Jin<sup>*</sup>, <strong><u>J.F. Yu<sup>*</sup></u></strong>, K. Yuan, L. Zhang, Mimicking the structure and function of ant bridge in reconfigurable microswarm for electronic applications, <i>ACS Nano</i>, accepted, 2019.
+* D.D. Jin<sup>*</sup>, <strong><u>J.F. Yu</u><sup>*</sup></strong>, K. Yuan, L. Zhang, Mimicking the structure and function of ant bridge in reconfigurable microswarm for electronic applications, <i>ACS Nano</i>, accepted, 2019.
 
 * <strong><u>J. F. Yu</u></strong>, B. Wang, X. Z. Du, Q. Q. Wang and L. Zhang, Ultra-extensible Ribbon-like Magnetic Microswarm, <i>Nature Communications</i>, Vol. 9, 3260, 2018. 
 
 * <strong><u>J. F. Yu</u></strong>, L. D. Yang and L. Zhang, Pattern Generation and Motion Control of a Vortex-like Paramagnetic Nanoparticle Swarm, <i>International Journal of Robotics Research</i>, Vol. 37, Issue 8, 912-930, 2018.
 
-*<strong><u>J. F. Yu</u></strong> and L. Zhang, Reversible Pattern Transformation of Paramagnetic Nanoparticle Swarms in Bio-fluids with High Ionic Strength, <i>IEEE/ASME Transactions on Mechatronics<i>, Vol. 24, Issue 1, 154-163, 2019.
+* <strong><u>J. F. Yu</u></strong>, and L. Zhang, Reversible Pattern Transformation of Paramagnetic Nanoparticle Swarms in Bio-fluids with High Ionic Strength, <i>IEEE/ASME Transactions on Mechatronics</i>, Vol. 24, Issue 1, 154-163, 2019.
   
 * <strong><u>J.F. Yu</u></strong>, T. T. Xu, Z. Y. Lu, C. I. Vong, L. Zhang, On-demand Disassembly of Magnetic Nanoparticle Chains for Microrobotic Cargo Delivery, <i>IEEE Transactions on Robotics</i>, Vol.33, Issue 5, 1213-1225, 2017.
 
