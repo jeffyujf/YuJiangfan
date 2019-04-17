@@ -7,6 +7,10 @@
 # News
 >This part is under regularly updating.
 
+[04/2019] Our paper has been accepted in <i>ACS Nano</i>. First paper on materials/nanotechnology as a first or co-first author!
+
+[04/2019] Congratulates to Tiantian for the acceptance of a T-MECH paper!
+
 [02/2019] One paper is formally published in <i>IEEE/ASME Transaction on Mechatronics</i>
 
 [11/2018] I formally begin my postdoctoral research period.
@@ -34,6 +38,8 @@
 # Journal Publications
 
 * D.D. Jin<sup>*</sup>, <strong><u>J.F. Yu</u><sup>*</sup></strong>, K. Yuan, L. Zhang, Mimicking the structure and function of ant bridge in reconfigurable microswarm for electronic applications, <i>ACS Nano</i>, accepted, 2019.
+
+* T. T. Xu, <strong><u>J. F. Yu</u></strong>, C. I. Vong, B. Wang, X. Y. Wu<sup>*</sup>, L. Zhang<sup>*</sup>, Dynamic morphology and swimming properties of rotating miniature swimmers with soft tails, <i>IEEE/ASME Transactions on Mechatronics</i>, accepted, 2019.
 
 * <strong><u>J. F. Yu</u></strong>, B. Wang, X. Z. Du, Q. Q. Wang and L. Zhang, Ultra-extensible Ribbon-like Magnetic Microswarm, <i>Nature Communications</i>, Vol. 9, 3260, 2018. 
 
