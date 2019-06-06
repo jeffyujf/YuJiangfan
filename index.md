@@ -39,7 +39,7 @@
 
 # Journal Publications
 
-* <strong><u>J. F. Yu</u><sup>*</sup></strong>, Q. Q. Wang, M. Z.  Li , C. Liu, L. D. Wang, T. T. Xu, L. Zhang, Characterizing Nanoparticle Swarms with Tuneable Concentrations for Enhanced Imaging Contrast, <i>IEEE Robotics and Automation Letters</i>, 2019, accepted.
+* <strong><u>J. F. Yu</u></strong>, Q. Q. Wang, M. Z.  Li , C. Liu, L. D. Wang, T. T. Xu, L. Zhang, Characterizing Nanoparticle Swarms with Tuneable Concentrations for Enhanced Imaging Contrast, <i>IEEE Robotics and Automation Letters</i>, 2019, accepted.
 
 * D.D. Jin<sup>*</sup>, <strong><u>J.F. Yu</u><sup>*</sup></strong>, K. Yuan, L. Zhang, Mimicking the structure and function of ant bridge in reconfigurable microswarm for electronic applications, <i>ACS Nano</i>, accepted, 2019. ( <sup>*</sup> denotes co-first authorship.)
 
