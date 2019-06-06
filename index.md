@@ -7,6 +7,8 @@
 # News
 >This part is under regularly updating.
 
+[06/2019] Our paper has been accepted in <i>IEEE Robotics and Automation Letters</i>. 
+
 [04/2019] Our paper has been accepted in <i>ACS Nano</i>. First paper on materials/nanotechnology as a first or co-first author!
 
 [04/2019] Congratulates to Tiantian for the acceptance of a T-MECH paper!
@@ -37,6 +39,8 @@
 
 # Journal Publications
 
+* <strong><u>J. F. Yu</u><sup>*</sup></strong>, Q. Q. Wang, M. Z.  Li , C. Liu, L. D. Wang, T. T. Xu, L. Zhang, Characterizing Nanoparticle Swarms with Tuneable Concentrations for Enhanced Imaging Contrast, <i>IEEE Robotics and Automation Letters</i>, 2019, accepted.
+
 * D.D. Jin<sup>*</sup>, <strong><u>J.F. Yu</u><sup>*</sup></strong>, K. Yuan, L. Zhang, Mimicking the structure and function of ant bridge in reconfigurable microswarm for electronic applications, <i>ACS Nano</i>, accepted, 2019. ( <sup>*</sup> denotes co-first authorship.)
 
 * T. T. Xu, <strong><u>J. F. Yu</u></strong>, C. I. Vong, B. Wang, X. Y. Wu<sup>*</sup>, L. Zhang<sup>*</sup>, Dynamic morphology and swimming properties of rotating miniature swimmers with soft tails, <i>IEEE/ASME Transactions on Mechatronics</i>, accepted, 2019.
@@ -63,36 +67,38 @@
 
 # Conference Publications
 
-1. <strong><u>J. F. Yu</u></strong>, D. D. Jin, L. Zhang, Mobile Magnetic Nanoparticle-based Vortex for Targeted Cargo Delivery in Fluid, <i>IEEE International Conference on Robotics and Automation (ICRA 2017)<i>, Singapore, May 29 - June 3, 6594 - 6599, 2017.
+* <strong><u>J. F. Yu</u></strong>, D. D. Jin, L. Zhang, Mobile Magnetic Nanoparticle-based Vortex for Targeted Cargo Delivery in Fluid, <i>IEEE International Conference on Robotics and Automation (ICRA 2017)<i>, Singapore, May 29 - June 3, 6594 - 6599, 2017.
 
-2. <strong><u>J. F. Yu</u></strong>, H. B. Yu, T. T. Xu and L. Zhang. Magnetic Control of AMB-1 Magnetotactic Bacteria for Micromanipulation, <i>IEEE International Conference on Automation Science and Engineering (CASE 2015)</i>, pages: 1614-1619. 
+* <strong><u>J. F. Yu</u></strong>, H. B. Yu, T. T. Xu and L. Zhang. Magnetic Control of AMB-1 Magnetotactic Bacteria for Micromanipulation, <i>IEEE International Conference on Automation Science and Engineering (CASE 2015)</i>, pages: 1614-1619. 
 
-3. <strong><u>J. F. Yu</u></strong>, L. Zhang, Paramagnetic Nanoparticle-based Vortex: Generation, Mobility and Microma- nipulation, <i>IEEE International Conference on Nanotechnology (IEEE NANO 2017)</i>, Pittsburg, U.S.A., July 25-28, 293 - 296, 2017.
+* <strong><u>J. F. Yu</u></strong>, L. Zhang, Paramagnetic Nanoparticle-based Vortex: Generation, Mobility and Microma- nipulation, <i>IEEE International Conference on Nanotechnology (IEEE NANO 2017)</i>, Pittsburg, U.S.A., July 25-28, 293 - 296, 2017.
 
-4. Q. W. Chao, <strong><u>J. F. Yu</u></strong>, T. T. Xu, L. Zhang, C. L. Wang, X. G. Jin, Steering Micro-Robotic Swarm by Dynamic Actuating Fields, <i>IEEE International Conference on Robotics and Automation (ICRA 2016)</i>, Stockholm, Sweden, 5230-5235, 2016.
+* Q. W. Chao, <strong><u>J. F. Yu</u></strong>, T. T. Xu, L. Zhang, C. L. Wang, X. G. Jin, Steering Micro-Robotic Swarm by Dynamic Actuating Fields, <i>IEEE International Conference on Robotics and Automation (ICRA 2016)</i>, Stockholm, Sweden, 5230-5235, 2016.
 
-5. D.D. Jin, <strong><u>J. F. Yu</u></strong>, K. H. Chan, L. Zhang, Self-propelled magnesium based micromotors: synthesis and magnetic steering, <i>International Symposium of Optomechatronics Technology (ISOT 2015)</i>, Vol. 32, 04004, 2015. 
+* D.D. Jin, <strong><u>J. F. Yu</u></strong>, K. H. Chan, L. Zhang, Self-propelled magnesium based micromotors: synthesis and magnetic steering, <i>International Symposium of Optomechatronics Technology (ISOT 2015)</i>, Vol. 32, 04004, 2015. 
 
-6. Q.Q. Wang, L.D. Yang, <strong><u>J.F. Yu</u></strong>, L. Zhang, Characterizing Dynamic Swimming Behaviors of Three-Particle Magnetic Microswimmer Near a Surface, IEEE International Conference on Robotics and Biomimetics 2017 (ROBIO 2017),Macao, China, Dec 5-8, 2017.
+* Q.Q. Wang, L.D. Yang, <strong><u>J.F. Yu</u></strong>, L. Zhang, Characterizing Dynamic Swimming Behaviors of Three-Particle Magnetic Microswimmer Near a Surface, IEEE International Conference on Robotics and Biomimetics 2017 (ROBIO 2017),Macao, China, Dec 5-8, 2017.
 
-7. Q.Q. Wang, L.D. Yang, <strong><u>J.F. Yu</u></strong>, C.I. Vong, Philip W.Y. Chiu, L. Zhang, Magnetic Navigation of A Rotating Colloidal Swarm Using Ultrasound Images, Proc. of IEEE International Conference on Intelligent Robots and Systems (IROS 2018), Madrid, Spain, Oct 1-5, 5380 - 5385, 2018.
+* Q.Q. Wang, L.D. Yang, <strong><u>J.F. Yu</u></strong>, C.I. Vong, Philip W.Y. Chiu, L. Zhang, Magnetic Navigation of A Rotating Colloidal Swarm Using Ultrasound Images, Proc. of IEEE International Conference on Intelligent Robots and Systems (IROS 2018), Madrid, Spain, Oct 1-5, 5380 - 5385, 2018.
 
 
 # Academic Presentations
 
-1. "On-demand Disassembly of Magnetic Nanoparticle Chains for Microrobotic Cargo Delivery", <strong>IEEE International Conference on Robotics and Automation (ICRA 2018)</strong>, Brisbane, Australia, May 2018.
+* Reconfigurable microrobotic swarms, Siyuan Forum, <strong>Shanghai Jiao Tong University</strong>.
 
-2. "Mobile Magnetic Nanoparticle-based Vortex for Targeted Cargo Delivery in Fluid“, <strong>IEEE International
+* "On-demand Disassembly of Magnetic Nanoparticle Chains for Microrobotic Cargo Delivery", <strong>IEEE International Conference on Robotics and Automation (ICRA 2018)</strong>, Brisbane, Australia, May 2018.
+
+* "Mobile Magnetic Nanoparticle-based Vortex for Targeted Cargo Delivery in Fluid“, <strong>IEEE International
 Conference on Robotics and Automation (ICRA 2017)</strong>, Singapore, May 2017.
 
-3. "Nanorobotic Swarm for Active Targeted Therapy", <strong>Emedic Global</strong>, Hong Kong, August 2016.
+* "Nanorobotic Swarm for Active Targeted Therapy", <strong>Emedic Global</strong>, Hong Kong, August 2016.
 
-4. "Mobile Microvortex Tweezers: Noninvasive, Low-cost Tools for Cell Manipulation and Nanomedicine",
+* "Mobile Microvortex Tweezers: Noninvasive, Low-cost Tools for Cell Manipulation and Nanomedicine",
 <strong>Faculty of Engineering 25th Anniversary</strong>, CUHK, Hong Kong, October 2016.
 
-5. "Magnetic Control of AMB-1 Magnetotactic Bacteria for Micromanipulation", <strong>IEEE International Conference on Automation Science and Engineering (CASE 2015)</strong>, Gothenburg, Sweden, August 2015.
+* "Magnetic Control of AMB-1 Magnetotactic Bacteria for Micromanipulation", <strong>IEEE International Conference on Automation Science and Engineering (CASE 2015)</strong>, Gothenburg, Sweden, August 2015.
 
-6. "Self-propelled Magnesium Based Micromotors: Synthesis and Magnetic Steering",<strong> International Symposium of Optomechatronics Technology (ISOT 2015)</strong>, Neuchatel, Switzerland, October 2015.
+* "Self-propelled Magnesium Based Micromotors: Synthesis and Magnetic Steering",<strong> International Symposium of Optomechatronics Technology (ISOT 2015)</strong>, Neuchatel, Switzerland, October 2015.
 
 
 # Press
@@ -109,9 +115,9 @@ Conference on Robotics and Automation (ICRA 2017)</strong>, Singapore, May 2017.
 
 # Internship experiences
 
-1. <strong>International Designing Institute, Zhejiang University,</strong> (Jun.-Aug. 2013): Designed the shape and the actuation system of a vehicle for disables, also involved in designing its interface and control system.
+* <strong>International Designing Institute, Zhejiang University,</strong> (Jun.-Aug. 2013): Designed the shape and the actuation system of a vehicle for disables, also involved in designing its interface and control system.
 
-2. <strong>National Engineering Lab of Digital Video Codec Technology, Peking University,</strong>(Jun.-Aug. 2012): Dealed with basic tasks on intelligent image process with OpenCV.
+* <strong>National Engineering Lab of Digital Video Codec Technology, Peking University,</strong>(Jun.-Aug. 2012): Dealed with basic tasks on intelligent image process with OpenCV.
 
-3. <strong>Advanced Robotics Lab, the Chinese University of Hong Kong,</strong> (Jun.-Aug. 2011): Designed a joint servo system fit in a palm-sized robot.
+* <strong>Advanced Robotics Lab, the Chinese University of Hong Kong,</strong> (Jun.-Aug. 2011): Designed a joint servo system fit in a palm-sized robot.
 
