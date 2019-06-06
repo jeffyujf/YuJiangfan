@@ -104,9 +104,9 @@ Conference on Robotics and Automation (ICRA 2017)</strong>, Singapore, May 2017.
 
 * Hong Kong Young Scientist Award 2018, <strong>short listed</strong> (<strong>3</strong>/over 60 competitors all over Hong Kong).
 
-* American Mathematical Contest in Modeling 2012
+* American Mathematical Contest in Modeling 2012, <strong>Honorable Mention</strong>.
 
-* Flying into the Future Space Exploration Innovation Contest in Asian 2012
+* Flying into the Future Space Exploration Innovation Contest in Asian 2012, <strong>Honorable Mention</strong>.
 
 # Press
 
