@@ -47,23 +47,23 @@
 
 * <strong><u>J. F. Yu</u></strong>, B. Wang, X. Z. Du, Q. Q. Wang and L. Zhang, Ultra-extensible Ribbon-like Magnetic Microswarm, <i>Nature Communications</i>, Vol. 9, 3260, 2018. 
 
+* <strong><u>J. F. Yu</u></strong>, and L. Zhang, Reversible Pattern Transformation of Paramagnetic Nanoparticle Swarms in Bio-fluids with High Ionic Strength, <i>IEEE/ASME Transactions on Mechatronics</i>, Vol. 24, Issue 1, 154-163, 2019.
+
 * <strong><u>J. F. Yu</u></strong>, L. D. Yang and L. Zhang, Pattern Generation and Motion Control of a Vortex-like Paramagnetic Nanoparticle Swarm, <i>International Journal of Robotics Research</i>, Vol. 37, Issue 8, 912-930, 2018.
 
-* <strong><u>J. F. Yu</u></strong>, and L. Zhang, Reversible Pattern Transformation of Paramagnetic Nanoparticle Swarms in Bio-fluids with High Ionic Strength, <i>IEEE/ASME Transactions on Mechatronics</i>, Vol. 24, Issue 1, 154-163, 2019.
-  
 * <strong><u>J.F. Yu</u></strong>, T. T. Xu, Z. Y. Lu, C. I. Vong, L. Zhang, On-demand Disassembly of Magnetic Nanoparticle Chains for Microrobotic Cargo Delivery, <i>IEEE Transactions on Robotics</i>, Vol.33, Issue 5, 1213-1225, 2017.
-
-* X. Yan, Q. Zhou, M. Vincent, Y. Deng, <strong><u>J. F. Yu</u></strong>, J. Xu, T. Xu, T. Tang, L. Bian, Y. Wang, K. Kostarelos, L. Zhang, Multifunctional biohybrid magnetite microrobots for imaging-guided therapy, <i>Science Robotics</i>, Vol. 2, Issue 12, eaaq1155, 2017.
-
-* T. T. Xu,  <strong><u>J. F. Yu</u></strong>, X. H. Yan, H. Choi, L. Zhang, Magnetic Actuation Based Motion Control for Microrobots: An Overview,<i> Micromachines</i>, 2015, 6(9), 1346-1364.
-
-* X. H. Yan, Q. Zhou, <strong><u>J. F. Yu</u></strong>, T. T. Xu, Y. Deng, T. Tang, Q. Feng, L. M. Bian, Y. Zhang, A. Ferreira and L. Zhang, Magnetite Nanostructured Porous Hollow Helical Microswimmers for Targeted Delivery, <i>Advanced Functional Materials</i>, Vol. 25, 5333-5342, 2015. 
-
-* Qianqian Wang, Lidong Yang, <strong><u>J.F. Yu</u></strong>, Li Zhang, Characterizing Dynamic Behaviors of Three-Particle Paramagnetic Microswimmer Near a Solid Surface, <i>Robotics and Biomimetics</i>, Vol. 4, Issue 4, 2017.
 
 * B. Wang, K. F. Chan, <strong><u>J. F. Yu</u></strong>, Q. Q. Wang, L. D. Yang, P. W. Y. Chiu, L. Zhang, Reconfigurable swarms of ferromagnetic colloids for enhanced local hyperthermia, <i>Advanced Functional Materials</i>, Vol. 28, 1705802, 2018. 
 
+* X. Yan, Q. Zhou, M. Vincent, Y. Deng, <strong><u>J. F. Yu</u></strong>, J. Xu, T. Xu, T. Tang, L. Bian, Y. Wang, K. Kostarelos, L. Zhang, Multifunctional biohybrid magnetite microrobots for imaging-guided therapy, <i>Science Robotics</i>, Vol. 2, Issue 12, eaaq1155, 2017.
+
+* Qianqian Wang, Lidong Yang, <strong><u>J.F. Yu</u></strong>, Li Zhang, Characterizing Dynamic Behaviors of Three-Particle Paramagnetic Microswimmer Near a Solid Surface, <i>Robotics and Biomimetics</i>, Vol. 4, Issue 4, 2017.
+
 * Q. Q. Wang, L. D. Yang, B. Wang, E. Yu,  <strong><u>J. F. Yu</u></strong>, L. Zhang, Collective behavior of reconfigurable magnetic droplets via dynamic self-assembly, <i>ACS Applied Materials & Interfaces</i>, Vol. 11, No. 1, 1630–1637, 2019.
+
+* X. H. Yan, Q. Zhou, <strong><u>J. F. Yu</u></strong>, T. T. Xu, Y. Deng, T. Tang, Q. Feng, L. M. Bian, Y. Zhang, A. Ferreira and L. Zhang, Magnetite Nanostructured Porous Hollow Helical Microswimmers for Targeted Delivery, <i>Advanced Functional Materials</i>, Vol. 25, 5333-5342, 2015. 
+
+* T. T. Xu,  <strong><u>J. F. Yu</u></strong>, X. H. Yan, H. Choi, L. Zhang, Magnetic Actuation Based Motion Control for Microrobots: An Overview,<i> Micromachines</i>, 2015, 6(9), 1346-1364.
 
 # Conference Publications
 
