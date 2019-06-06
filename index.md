@@ -67,19 +67,19 @@
 
 # Conference Publications
 
-* <strong><u>J. F. Yu</u></strong> and L. Zhang, Reconfigurable Colloidal Microrobotic Swarm for Targeted Delivery, <i>IEEE Ubiquitous Robots 2019 (UR 2019)</i>, Jeju, 2019, accepted.
+* <strong><u>J. F. Yu</u></strong> and L. Zhang, Reconfigurable Colloidal Microrobotic Swarm for Targeted Delivery, <strong><i>IEEE Ubiquitous Robots 2019 (UR 2019)</i></strong>, Jeju, 2019, accepted.
 
-* <strong><u>J. F. Yu</u></strong>, D. D. Jin, L. Zhang, Mobile Magnetic Nanoparticle-based Vortex for Targeted Cargo Delivery in Fluid, <i>IEEE International Conference on Robotics and Automation (ICRA 2017)</i>, Singapore, May 29 - June 3, 6594 - 6599, 2017.
+* <strong><u>J. F. Yu</u></strong>, D. D. Jin, L. Zhang, Mobile Magnetic Nanoparticle-based Vortex for Targeted Cargo Delivery in Fluid, <strong><i>IEEE International Conference on Robotics and Automation (ICRA 2017)</i></strong>, Singapore, May 29 - June 3, 6594 - 6599, 2017.
 
-* <strong><u>J. F. Yu</u></strong>, H. B. Yu, T. T. Xu and L. Zhang. Magnetic Control of AMB-1 Magnetotactic Bacteria for Micromanipulation, <i>IEEE International Conference on Automation Science and Engineering (CASE 2015)</i>, pages: 1614-1619. 
+* <strong><u>J. F. Yu</u></strong>, H. B. Yu, T. T. Xu and L. Zhang. Magnetic Control of AMB-1 Magnetotactic Bacteria for Micromanipulation, <strong><i>IEEE International Conference on Automation Science and Engineering (CASE 2015)</i></strong>, pages: 1614-1619. 
 
-* <strong><u>J. F. Yu</u></strong>, L. Zhang, Paramagnetic Nanoparticle-based Vortex: Generation, Mobility and Microma- nipulation, <i>IEEE International Conference on Nanotechnology (IEEE NANO 2017)</i>, Pittsburg, U.S.A., July 25-28, 293 - 296, 2017.
+* <strong><u>J. F. Yu</u></strong>, L. Zhang, Paramagnetic Nanoparticle-based Vortex: Generation, Mobility and Microma- nipulation, <strong><i>IEEE International Conference on Nanotechnology (IEEE NANO 2017)</i></strong>, Pittsburg, U.S.A., July 25-28, 293 - 296, 2017.
 
-* Q. W. Chao, <strong><u>J. F. Yu</u></strong>, T. T. Xu, L. Zhang, C. L. Wang, X. G. Jin, Steering Micro-Robotic Swarm by Dynamic Actuating Fields, <i>IEEE International Conference on Robotics and Automation (ICRA 2016)</i>, Stockholm, Sweden, 5230-5235, 2016.
+* Q. W. Chao, <strong><u>J. F. Yu</u></strong>, T. T. Xu, L. Zhang, C. L. Wang, X. G. Jin, Steering Micro-Robotic Swarm by Dynamic Actuating Fields, <strong><i>IEEE International Conference on Robotics and Automation (ICRA 2016)</i></strong>, Stockholm, Sweden, 5230-5235, 2016.
 
 * D.D. Jin, <strong><u>J. F. Yu</u></strong>, K. H. Chan, L. Zhang, Self-propelled magnesium based micromotors: synthesis and magnetic steering, <i>International Symposium of Optomechatronics Technology (ISOT 2015)</i>, Vol. 32, 04004, 2015. 
 
-* Q.Q. Wang, L.D. Yang, <strong><u>J.F. Yu</u></strong>, L. Zhang, Characterizing Dynamic Swimming Behaviors of Three-Particle Magnetic Microswimmer Near a Surface, <i>IEEE International Conference on Robotics and Biomimetics 2017 (ROBIO 2017)</i>,Macao, China, Dec 5-8, 2017.
+* Q.Q. Wang, L.D. Yang, <strong><u>J.F. Yu</u></strong>, L. Zhang, Characterizing Dynamic Swimming Behaviors of Three-Particle Magnetic Microswimmer Near a Surface, <strong><i>IEEE International Conference on Robotics and Biomimetics 2017 (ROBIO 2017)</i></strong>,Macao, China, Dec 5-8, 2017.
 
 * Q.Q. Wang, L.D. Yang, <strong><u>J.F. Yu</u></strong>, C.I. Vong, Philip W.Y. Chiu, L. Zhang, Magnetic Navigation of A Rotating Colloidal Swarm Using Ultrasound Images, <i>IEEE International Conference on Intelligent Robots and Systems (IROS 2018)</i>, Madrid, Spain, Oct 1-5, 5380 - 5385, 2018.
 
