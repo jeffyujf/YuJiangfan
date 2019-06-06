@@ -67,6 +67,8 @@
 
 # Conference Publications
 
+* <strong><u>J. F. Yu</u></strong> and L. Zhang, Reconfigurable Colloidal Microrobotic Swarm for Targeted Delivery, <i>IEEE Ubiquitous Robots 2019 (UR 2019)<i>, Jeju, 2019, accepted.
+
 * <strong><u>J. F. Yu</u></strong>, D. D. Jin, L. Zhang, Mobile Magnetic Nanoparticle-based Vortex for Targeted Cargo Delivery in Fluid, <i>IEEE International Conference on Robotics and Automation (ICRA 2017)<i>, Singapore, May 29 - June 3, 6594 - 6599, 2017.
 
 * <strong><u>J. F. Yu</u></strong>, H. B. Yu, T. T. Xu and L. Zhang. Magnetic Control of AMB-1 Magnetotactic Bacteria for Micromanipulation, <i>IEEE International Conference on Automation Science and Engineering (CASE 2015)</i>, pages: 1614-1619. 
