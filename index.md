@@ -41,7 +41,7 @@
 
 * <strong><u>J. F. Yu</u></strong>, Q. Q. Wang, M. Z.  Li , C. Liu, L. D. Wang, T. T. Xu, L. Zhang, Characterizing Nanoparticle Swarms with Tuneable Concentrations for Enhanced Imaging Contrast, <i>IEEE Robotics and Automation Letters</i>, 2019, accepted.
 
-* D.D. Jin<sup>*</sup>, <strong><u>J.F. Yu</u><sup>*</sup></strong>, K. Yuan, L. Zhang, Mimicking the structure and function of ant bridge in reconfigurable microswarm for electronic applications, <i>ACS Nano</i>, accepted, 2019. ( <sup>*</sup> denotes co-first authorship.)
+* D.D. Jin<sup>*</sup>, <strong><u>J. F. Yu</u><sup>*</sup></strong>, K. Yuan, L. Zhang, Mimicking the structure and function of ant bridge in reconfigurable microswarm for electronic applications, <i>ACS Nano</i>, accepted, 2019. ( <sup>*</sup> denotes co-first authorship.)
 
 * T. T. Xu, <strong><u>J. F. Yu</u></strong>, C. I. Vong, B. Wang, X. Y. Wu<sup>*</sup>, L. Zhang<sup>*</sup>, Dynamic morphology and swimming properties of rotating miniature swimmers with soft tails, <i>IEEE/ASME Transactions on Mechatronics</i>, accepted, 2019.
 
@@ -100,6 +100,13 @@ Conference on Robotics and Automation (ICRA 2017)</strong>, Singapore, May 2017.
 
 * "Self-propelled Magnesium Based Micromotors: Synthesis and Magnetic Steering",<strong> International Symposium of Optomechatronics Technology (ISOT 2015)</strong>, Neuchatel, Switzerland, October 2015.
 
+# Awards
+
+* Hong Kong Young Scientist Award 2018, <strong>short listed</strong> (<strong>3</strong>/over 60 competitors all over Hong Kong).
+
+* American Mathematical Contest in Modeling 2012
+
+* Flying into the Future Space Exploration Innovation Contest in Asian 2012
 
 # Press
 
