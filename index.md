@@ -67,9 +67,9 @@
 
 # Conference Publications
 
-* <strong><u>J. F. Yu</u></strong> and L. Zhang, Reconfigurable Colloidal Microrobotic Swarm for Targeted Delivery, <i>IEEE Ubiquitous Robots 2019 (UR 2019)<i>, Jeju, 2019, accepted.
+* <strong><u>J. F. Yu</u></strong> and L. Zhang, Reconfigurable Colloidal Microrobotic Swarm for Targeted Delivery, <i>IEEE Ubiquitous Robots 2019 (UR 2019)</i>, Jeju, 2019, accepted.
 
-* <strong><u>J. F. Yu</u></strong>, D. D. Jin, L. Zhang, Mobile Magnetic Nanoparticle-based Vortex for Targeted Cargo Delivery in Fluid, <i>IEEE International Conference on Robotics and Automation (ICRA 2017)<i>, Singapore, May 29 - June 3, 6594 - 6599, 2017.
+* <strong><u>J. F. Yu</u></strong>, D. D. Jin, L. Zhang, Mobile Magnetic Nanoparticle-based Vortex for Targeted Cargo Delivery in Fluid, <i>IEEE International Conference on Robotics and Automation (ICRA 2017)</i>, Singapore, May 29 - June 3, 6594 - 6599, 2017.
 
 * <strong><u>J. F. Yu</u></strong>, H. B. Yu, T. T. Xu and L. Zhang. Magnetic Control of AMB-1 Magnetotactic Bacteria for Micromanipulation, <i>IEEE International Conference on Automation Science and Engineering (CASE 2015)</i>, pages: 1614-1619. 
 
@@ -79,9 +79,9 @@
 
 * D.D. Jin, <strong><u>J. F. Yu</u></strong>, K. H. Chan, L. Zhang, Self-propelled magnesium based micromotors: synthesis and magnetic steering, <i>International Symposium of Optomechatronics Technology (ISOT 2015)</i>, Vol. 32, 04004, 2015. 
 
-* Q.Q. Wang, L.D. Yang, <strong><u>J.F. Yu</u></strong>, L. Zhang, Characterizing Dynamic Swimming Behaviors of Three-Particle Magnetic Microswimmer Near a Surface, IEEE International Conference on Robotics and Biomimetics 2017 (ROBIO 2017),Macao, China, Dec 5-8, 2017.
+* Q.Q. Wang, L.D. Yang, <strong><u>J.F. Yu</u></strong>, L. Zhang, Characterizing Dynamic Swimming Behaviors of Three-Particle Magnetic Microswimmer Near a Surface, <i>IEEE International Conference on Robotics and Biomimetics 2017 (ROBIO 2017)</i>,Macao, China, Dec 5-8, 2017.
 
-* Q.Q. Wang, L.D. Yang, <strong><u>J.F. Yu</u></strong>, C.I. Vong, Philip W.Y. Chiu, L. Zhang, Magnetic Navigation of A Rotating Colloidal Swarm Using Ultrasound Images, Proc. of IEEE International Conference on Intelligent Robots and Systems (IROS 2018), Madrid, Spain, Oct 1-5, 5380 - 5385, 2018.
+* Q.Q. Wang, L.D. Yang, <strong><u>J.F. Yu</u></strong>, C.I. Vong, Philip W.Y. Chiu, L. Zhang, Magnetic Navigation of A Rotating Colloidal Swarm Using Ultrasound Images, <i>IEEE International Conference on Intelligent Robots and Systems (IROS 2018)</i>, Madrid, Spain, Oct 1-5, 5380 - 5385, 2018.
 
 
 # Academic Presentations
