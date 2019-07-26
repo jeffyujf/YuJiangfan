@@ -7,6 +7,8 @@
 # News
 >This part is under regularly updating.
 
+[07/2019] I honorably received the Postgraduate Research Output Award 2018 (Engineering Faculty).
+
 [06/2019] Our paper has been accepted in <i>IEEE Robotics and Automation Letters</i>. 
 
 [04/2019] Our paper has been accepted in <i>ACS Nano</i>. First paper on materials/nanotechnology as a first or co-first author!
