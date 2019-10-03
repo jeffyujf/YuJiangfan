@@ -41,7 +41,7 @@
 
 
 
-# Journal Publications
+# Selected Journal Publications
 
 * L. D. Yang, <strong><u>J. F. Yu</u></strong>, L. Zhang*, Statistics-based automated control for a swarm of paramagnetic nanoparticles in 2D space, <strong><i>IEEE Transactions on Robotics</i></strong>, 2019, accepted.
 
@@ -71,7 +71,7 @@
 
 * T. T. Xu,  <strong><u>J. F. Yu</u></strong>, X. H. Yan, H. Choi, L. Zhang, Magnetic Actuation Based Motion Control for Microrobots: An Overview, <strong><i> Micromachines</i></strong>, 2015, 6(9), 1346-1364.
 
-# Conference Publications
+# Selected Conference Publications
 
 * <strong><u>J. F. Yu</u></strong> and L. Zhang, Reconfigurable Colloidal Microrobotic Swarm for Targeted Delivery, <strong><i>IEEE Ubiquitous Robots 2019 (UR 2019)</i></strong>, Jeju, 2019, accepted.
 
