@@ -110,7 +110,7 @@ Conference on Robotics and Automation (ICRA 2017)</strong>, Singapore, May 2017.
 
 # Awards
 
-* International Bionic Innovatio Competition 2019, <strong>the First Prize</strong>.
+* International Bionic Innovatio Competition 2019, <strong>the First Prize</strong> (Shared with D. D. Jin and L. Zhang).
 
 * Hong Kong Young Scientist Award 2018, <strong>short listed</strong> (<strong>3</strong>/over 60 competitors all over Hong Kong).
 
