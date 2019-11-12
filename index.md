@@ -15,11 +15,7 @@
 
 [04/2019] Our paper has been accepted in <i>ACS Nano</i>. First paper on materials/nanotechnology as a first or co-first author!
 
-[04/2019] Congratulates to Tiantian for the acceptance of a T-MECH paper!
-
 [02/2019] One paper is formally published in <i>IEEE/ASME Transaction on Mechatronics</i>
-
-[11/2018] I formally begin my postdoctoral research period.
 
 [11/2018] I have been shortlisted for Hong Kong Young Scientist Award (total 3 researchers), but unfortunally missed the award. Keep going!
 
@@ -29,21 +25,18 @@
 
 [04/2018] My paper has been accepted in <i>the International Journal of Robotics Research</i>. Many thanks to the appreciation of reviewers and the support of the editor!
 
-[01/2018] My T-Ro paper has been selected to be presented in ICRA 2018.
-
 [04/2017] My paper has been accepted in <i>IEEE Transactions on Robotics</i>.
 
-[04/2017] One paper has been accepted in <i>IEEE NANO 2017</i>.
-
-[01/2017] One paper has been accepted in <i>ICRA 2017</i>.
-
-[before 2017...] One paper has been accepted in <i>CASE 2016</i>.
 
 
 
 # Selected Journal Publications
 
-* L. D. Yang, <strong><u>J. F. Yu</u></strong>, L. Zhang*, Statistics-based automated control for a swarm of paramagnetic nanoparticles in 2D space, <strong><i>IEEE Transactions on Robotics</i></strong>, 2019, accepted.
+
+*<strong><u>J. F. Yu</u></strong><sup>*</sup>,D. D. Jin<sup>*</sup>, K. F. Chan, Q. Q. Wang, K. Yuan and L. Zhang,Active Generation and Magnetic Actuation of Microrobotic Swarms in Bio-fluids,<strong><i>Nature Communications</i></strong>, accepted, 2019.
+
+
+* L. D. Yang, <strong><u>J. F. Yu</u></strong>, L. Zhang, Statistics-based automated control for a swarm of paramagnetic nanoparticles in 2D space, <strong><i>IEEE Transactions on Robotics</i></strong>, 2019, accepted.
 
 * <strong><u>J. F. Yu</u></strong>, Q. Q. Wang, M. Z.  Li , C. Liu, L. D. Wang, T. T. Xu, L. Zhang, Characterizing Nanoparticle Swarms with Tuneable Concentrations for Enhanced Imaging Contrast, <strong><i>IEEE Robotics and Automation Letters</i></strong>, 2019, accepted.
 
