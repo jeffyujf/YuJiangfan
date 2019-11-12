@@ -35,7 +35,6 @@
 
 * <strong><u>J. F. Yu</u></strong><sup>*</sup>,D. D. Jin<sup>*</sup>, K. F. Chan, Q. Q. Wang, K. Yuan and L. Zhang,Active Generation and Magnetic Actuation of Microrobotic Swarms in Bio-fluids, <strong><i>Nature Communications</i></strong>, accepted, 2019.
 
-
 * L. D. Yang, <strong><u>J. F. Yu</u></strong>, L. Zhang, Statistics-based automated control for a swarm of paramagnetic nanoparticles in 2D space, <strong><i>IEEE Transactions on Robotics</i></strong>, 2019, accepted.
 
 * <strong><u>J. F. Yu</u></strong>, Q. Q. Wang, M. Z.  Li , C. Liu, L. D. Wang, T. T. Xu, L. Zhang, Characterizing Nanoparticle Swarms with Tuneable Concentrations for Enhanced Imaging Contrast, <strong><i>IEEE Robotics and Automation Letters</i></strong>, 2019, accepted.
