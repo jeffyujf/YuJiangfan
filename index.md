@@ -33,15 +33,15 @@
 # Selected Journal Publications
 
 
-* <strong><u>J. F. Yu</u></strong><sup>*</sup>, D. D. Jin<sup>*</sup>, K. F. Chan, Q. Q. Wang, K. Yuan and L. Zhang, Active Generation and Magnetic Actuation of Microrobotic Swarms in Bio-fluids, <strong><i>Nature Communications</i></strong>, accepted, 2019.
+* <strong><u>J. F. Yu</u></strong><sup>*</sup>, D. D. Jin<sup>*</sup>, K. F. Chan, Q. Q. Wang, K. Yuan and L. Zhang, Active Generation and Magnetic Actuation of Microrobotic Swarms in Bio-fluids, <strong><i>Nature Communications</i></strong>, accepted, 2019.( <sup>*</sup> denotes co-first authorship.)
 
 * L. D. Yang, <strong><u>J. F. Yu</u></strong>, L. Zhang, Statistics-based automated control for a swarm of paramagnetic nanoparticles in 2D space, <strong><i>IEEE Transactions on Robotics</i></strong>, 2019, accepted.
 
-* <strong><u>J. F. Yu</u></strong>, Q. Q. Wang, M. Z.  Li , C. Liu, L. D. Wang, T. T. Xu, L. Zhang, Characterizing Nanoparticle Swarms with Tuneable Concentrations for Enhanced Imaging Contrast, <strong><i>IEEE Robotics and Automation Letters</i></strong>, 2019, accepted.
+* <strong><u>J. F. Yu</u></strong>, Q. Q. Wang, M. Z.  Li , C. Liu, L. D. Wang, T. T. Xu, L. Zhang, Characterizing Nanoparticle Swarms with Tuneable Concentrations for Enhanced Imaging Contrast, <strong><i>IEEE Robotics and Automation Letters</i></strong>, Vol. 4, Issue 3, 2942-2949, 2019.
 
-* D.D. Jin<sup>*</sup>, <strong><u>J. F. Yu</u><sup>*</sup></strong>, K. Yuan, L. Zhang, Mimicking the structure and function of ant bridge in reconfigurable microswarm for electronic applications, <strong><i>ACS Nano</i></strong>, accepted, 2019. ( <sup>*</sup> denotes co-first authorship.)
+* D.D. Jin<sup>*</sup>, <strong><u>J. F. Yu</u><sup>*</sup></strong>, K. Yuan, L. Zhang, Mimicking the structure and function of ant bridge in reconfigurable microswarm for electronic applications, <strong><i>ACS Nano</i></strong>, Vol. 13, Issue 5, 5999-6007, 2019. ( <sup>*</sup> denotes co-first authorship.)
 
-* T. T. Xu, <strong><u>J. F. Yu</u></strong>, C. I. Vong, B. Wang, X. Y. Wu<sup>*</sup>, L. Zhang<sup>*</sup>, Dynamic morphology and swimming properties of rotating miniature swimmers with soft tails, <strong><i>IEEE/ASME Transactions on Mechatronics</i></strong>, accepted, 2019.
+* T. T. Xu, <strong><u>J. F. Yu</u></strong>, C. I. Vong, B. Wang, X. Y. Wu<sup>*</sup>, L. Zhang<sup>*</sup>, Dynamic morphology and swimming properties of rotating miniature swimmers with soft tails, <strong><i>IEEE/ASME Transactions on Mechatronics</i></strong>, Vol. 24, Issue 3, 924-934, 2019.
 
 * <strong><u>J. F. Yu</u></strong>, B. Wang, X. Z. Du, Q. Q. Wang and L. Zhang, Ultra-extensible Ribbon-like Magnetic Microswarm, <strong><i>Nature Communications</i></strong>, Vol. 9, 3260, 2018. 
 
