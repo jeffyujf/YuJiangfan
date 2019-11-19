@@ -1,13 +1,13 @@
 # Home
 
-<p style="text-align:justify">I am currently a postdoctoral fellow in the Department of Mechanical and Industrial Engineering, University of Toronto. Before that, I received my Ph.D. degree in the Department of Mechanical and Automation Engineering, the Chinese University of Hong Kong. I received my B.Eng degree in Department of Automation from Harbin Institute of Technology, in 2014. </p>
+<p style="text-align:justify">I am currently a postdoctoral fellow in the Department of Mechanical and Industrial Engineering, University of Toronto. Before that, I spent 4-year Ph.D. and 1-year postdoc life in the Department of Mechanical and Automation Engineering, the Chinese University of Hong Kong. I received my B.Eng degree in Department of Automation from Harbin Institute of Technology, in 2014. </p>
 
 <p style="text-align:justify"> My research interest locates in small-scale robotics, especially microrobotic swarms for biomedical applications. During my Ph.D.'s research, I accumulated experiences on the understanding of microrobotic swarms from fundamentals, including the generation, actuation, motion control and imaging, to potential applications such as targeted drug delivery, hyperthermia and sensing. I also have expertise on the actuation and navigation of helical microrobots and magnetotactic bacteria for microrobotic missions.</p>
 
 # News
 >This part is under regularly updating.
 
-
+[11/2019] I joined the Department of Mechanical and Industrial Engineering, University of Toronto.
 
 [07/2019] I honorably received the Postgraduate Research Output Award 2018 (Engineering Faculty).
 
