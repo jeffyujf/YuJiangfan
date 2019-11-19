@@ -13,24 +13,7 @@
 
 [07/2019] Our paper has been selected to be Top 50 physics articles published in 2018 from Nature Communication (rank 8th).
 
-[06/2019] Our paper has been accepted in <i>IEEE Robotics and Automation Letters</i>. 
-
 [04/2019] Our paper has been accepted in <i>ACS Nano</i>. First paper on materials/nanotechnology as a first or co-first author!
-
-[02/2019] One paper is formally published in <i>IEEE/ASME Transaction on Mechatronics</i>
-
-[11/2018] I have been shortlisted for Hong Kong Young Scientist Award (total 3 researchers), but unfortunally missed the award. Keep going!
-
-[07/2018] I successfully passed my PhD thesis defenses.
-
-[07/2018] One paper has been accepted in <i>Nature Communications</i>. This work has been highlighted in <i>Nature News, Nature Video</i> and many media including <i>CNN</i>.
-
-[04/2018] My paper has been accepted in <i>the International Journal of Robotics Research</i>. Many thanks to the appreciation of reviewers and the support of the editor!
-
-[04/2017] My paper has been accepted in <i>IEEE Transactions on Robotics</i>.
-
-
-
 
 # Selected Journal Publications
 
