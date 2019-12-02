@@ -7,7 +7,7 @@
 # News
 >This part is under regularly updating.
 
-[11/2019] I joined the Department of Mechanical and Industrial Engineering, University of Toronto.
+[11/2019] I joined the Department of Mechanical and Industrial Engineering as a postdoc fellow, University of Toronto.
 
 [07/2019] I honorably received the Postgraduate Research Output Award 2018 (Engineering Faculty).
 
@@ -20,17 +20,24 @@
 
 * <strong><u>J. F. Yu</u></strong><sup>*</sup>, D. D. Jin<sup>*</sup>, K. F. Chan, Q. Q. Wang, K. Yuan and L. Zhang, Active Generation and Magnetic Actuation of Microrobotic Swarms in Bio-fluids, <strong><i>Nature Communications</i></strong>, accepted, 2019.( <sup>*</sup> denotes co-first authorship.)
 
+* D.D. Jin<sup>*</sup>, <strong><u>J. F. Yu</u><sup>*</sup></strong>, K. Yuan, L. Zhang, Mimicking the structure and function of ant bridge in reconfigurable microswarm for electronic applications, <strong><i>ACS Nano</i></strong>, Vol. 13, Issue 5, 5999-6007, 2019. ( <sup>*</sup> denotes co-first authorship.)
+
+* <strong><u>J. F. Yu</u></strong>, and L. Zhang, Reversible Pattern Transformation of Paramagnetic Nanoparticle Swarms in Bio-fluids with High Ionic Strength, <strong><i>IEEE/ASME Transactions on Mechatronics</i></strong>, Vol. 24, Issue 1, 154-163, 2019.
+
 * L. D. Yang, <strong><u>J. F. Yu</u></strong>, L. Zhang, Statistics-based automated control for a swarm of paramagnetic nanoparticles in 2D space, <strong><i>IEEE Transactions on Robotics</i></strong>, 2019, accepted.
 
 * <strong><u>J. F. Yu</u></strong>, Q. Q. Wang, M. Z.  Li , C. Liu, L. D. Wang, T. T. Xu, L. Zhang, Characterizing Nanoparticle Swarms with Tuneable Concentrations for Enhanced Imaging Contrast, <strong><i>IEEE Robotics and Automation Letters</i></strong>, Vol. 4, Issue 3, 2942-2949, 2019.
 
-* D.D. Jin<sup>*</sup>, <strong><u>J. F. Yu</u><sup>*</sup></strong>, K. Yuan, L. Zhang, Mimicking the structure and function of ant bridge in reconfigurable microswarm for electronic applications, <strong><i>ACS Nano</i></strong>, Vol. 13, Issue 5, 5999-6007, 2019. ( <sup>*</sup> denotes co-first authorship.)
+* T. T. Xu, <strong><u>J. F. Yu</u></strong>, C. I. Vong, B. Wang, X. Y. Wu, L. Zhang, Dynamic morphology and swimming properties of rotating miniature swimmers with soft tails, <strong><i>IEEE/ASME Transactions on Mechatronics</i></strong>, Vol. 24, Issue 3, 924-934, 2019.
 
-* T. T. Xu, <strong><u>J. F. Yu</u></strong>, C. I. Vong, B. Wang, X. Y. Wu<sup>*</sup>, L. Zhang<sup>*</sup>, Dynamic morphology and swimming properties of rotating miniature swimmers with soft tails, <strong><i>IEEE/ASME Transactions on Mechatronics</i></strong>, Vol. 24, Issue 3, 924-934, 2019.
+* B. Wang, F. T. Ji, <strong><u>J. F. Yu</u></strong>, L. D. Yang, Q. Q. Wang, L. Zhang, Bubble-assisted three-dimensional ensemble of nanomotors for improved catalytic performance,<strong><i> iScience</i></strong>, Vol 20, 760-771, 2019. (high- lighted as the front cover)
+
+
+* Q. Q. Wang, <strong><u>J. F. Yu</u></strong>, K. Yuan, L. D. Yang, L. Zhang*, Disassembly and Spreading of Magnetic Nanoparticle Clusters on Uneven Surfaces, <strong><i>Applied Materials Today</i></strong>, 2019, accepted.
 
 * <strong><u>J. F. Yu</u></strong>, B. Wang, X. Z. Du, Q. Q. Wang and L. Zhang, Ultra-extensible Ribbon-like Magnetic Microswarm, <strong><i>Nature Communications</i></strong>, Vol. 9, 3260, 2018. 
 
-* <strong><u>J. F. Yu</u></strong>, and L. Zhang, Reversible Pattern Transformation of Paramagnetic Nanoparticle Swarms in Bio-fluids with High Ionic Strength, <strong><i>IEEE/ASME Transactions on Mechatronics</i></strong>, Vol. 24, Issue 1, 154-163, 2019.
+
 
 * <strong><u>J. F. Yu</u></strong>, L. D. Yang and L. Zhang, Pattern Generation and Motion Control of a Vortex-like Paramagnetic Nanoparticle Swarm, <strong><i>International Journal of Robotics Research</i></strong>, Vol. 37, Issue 8, 912-930, 2018.
 
@@ -86,6 +93,8 @@ Conference on Robotics and Automation (ICRA 2017)</strong>, Singapore, May 2017.
 * "Self-propelled Magnesium Based Micromotors: Synthesis and Magnetic Steering",<strong> International Symposium of Optomechatronics Technology (ISOT 2015)</strong>, Neuchatel, Switzerland, October 2015.
 
 # Awards
+
+* CUHK Postgraduate Research Output Award 2018 (Engineering Faculty).
 
 * International Bionic Innovatio Competition 2019, <strong>the First Prize</strong> (Shared with D. D. Jin and L. Zhang).
 
