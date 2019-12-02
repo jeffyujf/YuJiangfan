@@ -43,9 +43,9 @@
 
 * <strong><u>J.F. Yu</u></strong>, T. T. Xu, Z. Y. Lu, C. I. Vong, L. Zhang, On-demand Disassembly of Magnetic Nanoparticle Chains for Microrobotic Cargo Delivery, <strong><i>IEEE Transactions on Robotics</i></strong>, Vol.33, Issue 5, 1213-1225, 2017.
 
-* B. Wang, K. F. Chan, <strong><u>J. F. Yu</u></strong>, Q. Q. Wang, L. D. Yang, P. W. Y. Chiu, L. Zhang, Reconfigurable swarms of ferromagnetic colloids for enhanced local hyperthermia, <strong><i>Advanced Functional Materials</strong></i>, Vol. 28, 1705802, 2018. 
+* B. Wang, K. F. Chan, <strong><u>J. F. Yu</u></strong>, Q. Q. Wang, L. D. Yang, P. W. Y. Chiu, L. Zhang, Reconfigurable swarms of ferromagnetic colloids for enhanced local hyperthermia, <strong><i>Advanced Functional Materials</i></strong>, Vol. 28, 1705802, 2018. 
 
-* X. Yan, Q. Zhou, M. Vincent, Y. Deng, <strong><u>J. F. Yu</u></strong>, J. Xu, T. Xu, T. Tang, L. Bian, Y. Wang, K. Kostarelos, L. Zhang, Multifunctional biohybrid magnetite microrobots for imaging-guided therapy,  <strong><i>Science Robotics</strong></i>, Vol. 2, Issue 12, eaaq1155, 2017.
+* X. Yan, Q. Zhou, M. Vincent, Y. Deng, <strong><u>J. F. Yu</u></strong>, J. Xu, T. Xu, T. Tang, L. Bian, Y. Wang, K. Kostarelos, L. Zhang, Multifunctional biohybrid magnetite microrobots for imaging-guided therapy,  <strong><i>Science Robotics</i></strong>, Vol. 2, Issue 12, eaaq1155, 2017.
 
 * Qianqian Wang, Lidong Yang, <strong><u>J.F. Yu</u></strong>, Li Zhang, Characterizing Dynamic Behaviors of Three-Particle Paramagnetic Microswimmer Near a Solid Surface, <strong><i>Robotics and Biomimetics</i></strong>, Vol. 4, Issue 4, 2017.
 
