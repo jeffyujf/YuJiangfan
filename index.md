@@ -7,6 +7,10 @@
 # News
 >This part is under regularly updating.
 
+[06/2020] Our T-Mech paper entitled "Reversible Pattern Transformation of Paramagnetic Nanoparticle Swarms in Bio-fluids with High Ionic Strength" has been named as a finalist for 2019 T-Mech Best Paper Award.
+
+[05/2020] Our Nature Communications paper entitled "Ultra-extensible Ribbon-like Magnetic Microswarm" has been ranked as ESI highly cited paper.
+
 [11/2019] I joined the Department of Mechanical and Industrial Engineering as a postdoc fellow, University of Toronto.
 
 [07/2019] I honorably received the Postgraduate Research Output Award 2018 (Engineering Faculty).
@@ -22,7 +26,7 @@
 
 * D.D. Jin<sup>*</sup>, <strong><u>J. F. Yu</u><sup>*</sup></strong>, K. Yuan, L. Zhang, Mimicking the structure and function of ant bridge in reconfigurable microswarm for electronic applications, <strong><i>ACS Nano</i></strong>, Vol. 13, Issue 5, 5999-6007, 2019. ( <sup>*</sup> denotes co-first authorship.)
 
-* <strong><u>J. F. Yu</u></strong>, and L. Zhang, Reversible Pattern Transformation of Paramagnetic Nanoparticle Swarms in Bio-fluids with High Ionic Strength, <strong><i>IEEE/ASME Transactions on Mechatronics</i></strong>, Vol. 24, Issue 1, 154-163, 2019.
+* <strong><u>J. F. Yu</u></strong>, and L. Zhang, Reversible Pattern Transformation of Paramagnetic Nanoparticle Swarms in Bio-fluids with High Ionic Strength, <strong><i>IEEE/ASME Transactions on Mechatronics</i></strong>, Vol. 24, Issue 1, 154-163, 2019. (Finalist for 2019 TMECH Best Paper Award)
 
 * L. D. Yang, <strong><u>J. F. Yu</u></strong>, L. Zhang, Statistics-based automated control for a swarm of paramagnetic nanoparticles in 2D space, <strong><i>IEEE Transactions on Robotics</i></strong>, 2019, accepted.
 
@@ -35,7 +39,7 @@
 
 * Q. Q. Wang, <strong><u>J. F. Yu</u></strong>, K. Yuan, L. D. Yang, L. Zhang*, Disassembly and Spreading of Magnetic Nanoparticle Clusters on Uneven Surfaces, <strong><i>Applied Materials Today</i></strong>, 2019, accepted.
 
-* <strong><u>J. F. Yu</u></strong>, B. Wang, X. Z. Du, Q. Q. Wang and L. Zhang, Ultra-extensible Ribbon-like Magnetic Microswarm, <strong><i>Nature Communications</i></strong>, Vol. 9, 3260, 2018. 
+* <strong><u>J. F. Yu</u></strong>, B. Wang, X. Z. Du, Q. Q. Wang and L. Zhang, Ultra-extensible Ribbon-like Magnetic Microswarm, <strong><i>Nature Communications</i></strong>, Vol. 9, 3260, 2018. (ESI highly cited paper)
 
 
 
