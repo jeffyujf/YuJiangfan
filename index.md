@@ -9,7 +9,7 @@
 
 [06/2020] Our T-Mech paper entitled "Reversible Pattern Transformation of Paramagnetic Nanoparticle Swarms in Bio-fluids with High Ionic Strength" has been named as a finalist for 2019 T-Mech Best Paper Award.
 
-[05/2020] Our Nature Communications paper entitled "Ultra-extensible Ribbon-like Magnetic Microswarm" has been ranked as ESI highly cited paper.
+[05/2020] Our Nature Communications paper entitled "Ultra-extensible Ribbon-like Magnetic Microswarm" has been ranked as a ESI highly cited paper.
 
 [11/2019] I joined the Department of Mechanical and Industrial Engineering as a postdoc fellow, University of Toronto.
 
