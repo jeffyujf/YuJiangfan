@@ -26,7 +26,7 @@
 
 * D.D. Jin<sup>*</sup>, <strong><u>J. F. Yu</u><sup>*</sup></strong>, K. Yuan, L. Zhang, Mimicking the structure and function of ant bridge in reconfigurable microswarm for electronic applications, <strong><i>ACS Nano</i></strong>, Vol. 13, Issue 5, 5999-6007, 2019. ( <sup>*</sup> denotes co-first authorship.)
 
-* <strong><u>J. F. Yu</u></strong>, and L. Zhang, Reversible Pattern Transformation of Paramagnetic Nanoparticle Swarms in Bio-fluids with High Ionic Strength, <strong><i>IEEE/ASME Transactions on Mechatronics</i></strong>, Vol. 24, Issue 1, 154-163, 2019. (Finalist for 2019 TMECH Best Paper Award)
+* <strong><u>J. F. Yu</u></strong>, and L. Zhang, Reversible Pattern Transformation of Paramagnetic Nanoparticle Swarms in Bio-fluids with High Ionic Strength, <strong><i>IEEE/ASME Transactions on Mechatronics</i></strong>, Vol. 24, Issue 1, 154-163, 2019. (Finalist for 2020 TMECH Best Paper Award)
 
 * L. D. Yang, <strong><u>J. F. Yu</u></strong>, L. Zhang, Statistics-based automated control for a swarm of paramagnetic nanoparticles in 2D space, <strong><i>IEEE Transactions on Robotics</i></strong>, 2019, accepted.
 
