@@ -7,7 +7,7 @@
 # News
 >This part is under regularly updating.
 
-[06/2020] Our T-Mech paper entitled "Reversible Pattern Transformation of Paramagnetic Nanoparticle Swarms in Bio-fluids with High Ionic Strength" has been named as a finalist for 2019 T-Mech Best Paper Award.
+[06/2020] Our T-Mech paper entitled "Reversible Pattern Transformation of Paramagnetic Nanoparticle Swarms in Bio-fluids with High Ionic Strength" has been named as a finalist for 2020 T-Mech Best Paper Award.
 
 [05/2020] Our Nature Communications paper entitled "Ultra-extensible Ribbon-like Magnetic Microswarm" has been ranked as a ESI highly cited paper.
 
