@@ -7,6 +7,8 @@
 # News
 >This part is under regularly updating.
 
+[08/2020] I will join Chinese University of Hong Kong, Shenzhen, this November as an assistant professor. A team will be built.
+
 [06/2020] Our T-Mech paper entitled "Reversible Pattern Transformation of Paramagnetic Nanoparticle Swarms in Bio-fluids with High Ionic Strength" has been named as a finalist for 2020 T-Mech Best Paper Award.
 
 [05/2020] Our Nature Communications paper entitled "Ultra-extensible Ribbon-like Magnetic Microswarm" has been ranked as a ESI highly cited paper.
@@ -21,6 +23,11 @@
 
 # Selected Journal Publications
 
+* X. Wang, J. H. Law, M. X. Luo, Z. Y. Gong, <strong><u>J. F. Yu</u></strong><sup>*</sup>, W. T. Tang, Z. R. Zhang, X. T. Mei, Z. J. Huang, L. D. You and Y. Sun, Magnetic Measurement and Stimulation of Cellular and Intracellular Structures, <strong><i>ACS Nano</i></strong>, 14 (4), 3805-3821, 2020.
+
+* Q. Q. Wang, L. D. Yang, <strong><u>J. F. Yu</u></strong><sup>*</sup>, Philip W. Y, Chiu, Y. P. Zheng and L. Zhang, Real-time magnetic navigation of a rotating colloidal microswarm under ultrasound guidance, <strong><i>IEEE Transactions on Biomedical Engineering</i></strong>, accepted, 2020.
+
+* Q. Q. Wang, <strong><u>J. F. Yu</u></strong><sup>*</sup>, K. Yuan, L. D. Yang, D. D. Jin and L. Zhang, Disassembly and spreading of magnetic nanoparticle clusters on uneven surfaces, <strong><i>Applied Materials Today</i></strong>, 18, 100489, 2020.
 
 * <strong><u>J. F. Yu</u></strong><sup>*</sup>, D. D. Jin<sup>*</sup>, K. F. Chan, Q. Q. Wang, K. Yuan and L. Zhang, Active Generation and Magnetic Actuation of Microrobotic Swarms in Bio-fluids, <strong><i>Nature Communications</i></strong>, accepted, 2019.( <sup>*</sup> denotes co-first authorship.)
 
