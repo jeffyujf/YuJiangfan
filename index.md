@@ -135,3 +135,4 @@ Conference on Robotics and Automation (ICRA 2017)</strong>, Singapore, May 2017.
 
 * <strong>Advanced Robotics Lab, the Chinese University of Hong Kong,</strong> (Jun.-Aug. 2011): Designed a joint servo system fit in a palm-sized robot.
 
+<script type="text/javascript" id="clustrmaps" src="//cdn.clustrmaps.com/map_v2.js?d=91bTWFjNZcTfbgvRX3wJu6stQ3IDxhXBmLA-leAnfSw&cl=ffffff&w=a"></script>
