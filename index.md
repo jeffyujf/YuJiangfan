@@ -7,6 +7,8 @@
 # News
 >This part is under regularly updating.
 
+[09/2020] Our book "Micro- and Nanorobots: From Individual to Swarm" (in Chinese) has been published.
+
 [08/2020] I will join School of Science and Engineering, Chinese University of Hong Kong, Shenzhen, as an assistant professor this November. A team will be built.
 
 [06/2020] Our T-Mech paper entitled "Reversible Pattern Transformation of Paramagnetic Nanoparticle Swarms in Bio-fluids with High Ionic Strength" has been named as a finalist for 2020 T-Mech Best Paper Award.
