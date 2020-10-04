@@ -23,6 +23,10 @@
 
 [04/2019] Our paper has been accepted in <i>ACS Nano</i>. First paper on materials/nanotechnology as a first or co-first author!
 
+# Books
+
+* L. Zhang, <strong><u>J. F. Yu</u></strong>, and L. D. Yang, Micro- and Nanorobots: From Individual to Swarm, <strong><i>Science Press</i></strong>, 2020.
+
 # Selected Journal Publications
 
 * X. Wang, J. H. Law, M. X. Luo, Z. Y. Gong, <strong><u>J. F. Yu</u></strong>, W. T. Tang, Z. R. Zhang, X. T. Mei, Z. J. Huang, L. D. You and Y. Sun, Magnetic Measurement and Stimulation of Cellular and Intracellular Structures, <strong><i>ACS Nano</i></strong>, 14 (4), 3805-3821, 2020.
