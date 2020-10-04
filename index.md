@@ -25,7 +25,7 @@
 
 # Books
 
-* L. Zhang, <strong><u>J. F. Yu</u></strong>, and L. D. Yang, Micro- and Nanorobots: From Individual to Swarm, <strong><i>Science Press</i></strong>, 2020.
+* L. Zhang, <strong><u>J. F. Yu</u></strong>, and L. D. Yang, Micro- and Nanorobots: From Individual to Swarm (in Chinese), <strong><i>Science Press (科学出版社)</i></strong>, 2020.
 
 # Selected Journal Publications
 
