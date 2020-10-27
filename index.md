@@ -5,7 +5,7 @@
 # News
 >This part is under regularly updating.
 
-[09/2020] Our lab is hiring Ph. D. students (2 openings), Mphil students (1-2 openings), RA, and Postdocs (1-2 openings). Welcome all talented and determined candidates! If you are interested in our lab and research, please send me your CV and representative publications (if any).
+[09/2020] Our lab is hiring Ph. D. students (2 openings), Mphil students (1-2 openings), RA, and Postdocs (1-2 openings). Welcome all talented and determined candidates! If you are interested in our lab and research, please send me your CV and representative publications (if any). (./poster.png)
 
 [09/2020] Our book "Micro- and Nanorobots: From Individual to Swarm" (in Chinese) has been published.
 
