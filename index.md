@@ -5,6 +5,8 @@
 # News
 >This part is under regularly updating.
 
+[12/2020] I have been appointed as a Topic Editor in  <strong>Frontiers in Robotics and AI </strong>, and  <strong>Micromachines </strong>.
+
 [11/2020] Our lab is hiring Ph. D. students, Mphil students and Postdocs. Welcome all talented and determined candidates! If you are interested in our lab and research, please send me your CV and representative publications (if any). [More details](https://github.com/jeffyujf/YuJiangfan/blob/master/Poster.png?raw=true)
 
 [09/2020] Our book "Micro- and Nanorobots: From Individual to Swarm" (in Chinese) has been published.
